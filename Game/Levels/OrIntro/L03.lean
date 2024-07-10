@@ -19,14 +19,14 @@ Here's the deal. Ilyn and Cyna both said they're bringing board games and you're
 - `C` — Cyna is coming to the party
 - `I` — Ilyn is coming to the party
 # Or Elimination
-If you can conclude something from `A` and you can conclude the same thing from `B`, then if you know `A ∨ B` it won't matter which of the two happens as you can still guarentee something.
+If you can conclude something from `A` and you can conclude the same thing from `B`, then if you know `A ∨ B` it won't matter which of the two happens as you can still guarantee something.
 # You've unlocked `or_elim`
 `or_elim` has three parameters:
 1. takes evidence for a disjunction,
 2. evidence an implication on the left,
 3. evidence for an implication on the right.
 
-`or_elim` is your first 3-paramater function. The associated proposition is `or_elim : (P ∨ Q) → (P → R) → (Q → R) → R`.
+`or_elim` is your first 3-parameter function. The associated proposition is `or_elim : (P ∨ Q) → (P → R) → (Q → R) → R`.
 ```
 pvq: P ∨ Q
 pr : P → R

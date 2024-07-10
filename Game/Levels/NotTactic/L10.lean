@@ -4,7 +4,7 @@ open GameLogic
 
 World "NotTactic"
 Level 10
-Title "Conjunction Implicaiton"
+Title "Conjunction Implication"
 
 OnlyTactic
   assumption

@@ -29,7 +29,7 @@ example (B C : Prop) (h : ¬(B → C)) : ¬¬B := by
   exact λnb ↦ h (nb ≫ false_elim)
 
 Conclusion "
-These unintuitive statements highlight the inherent challenge in contemplating the *potential* existence (or definite non-existance) of implications.
+These unintuitive statements highlight the inherent challenge in contemplating the *potential* existence (or definite non-existence) of implications.
 
 That's a twist of logic, to be sure!
 "

@@ -14,7 +14,7 @@ OnlyTactic
 
 Introduction "
 # Coupled Conditionals
-Sybeth and Alarfil are a couple. In effect, this means that if Sybeth is playing a party game, then Alarfil is playing too and vise versa. Therefore Sybeth is playing Charades if and only if Alarfil playing.
+Sybeth and Alarfil are a couple. In effect, this means that if Sybeth is playing a party game, then Alarfil is playing too and vice versa. Therefore Sybeth is playing Charades if and only if Alarfil playing.
 # Proposition Key:
 - J — Alarfil is playing Charades
 - S — Sybeth is playing Charades

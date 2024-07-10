@@ -22,9 +22,9 @@ You've unlocked the \"false implies anything\" function. `false_elim` will take 
 # A Tip
 Remember you can think of `h : ¬S` as `h : S → False`.\\
 \\
-Once you've started with `λ(s : S) ↦ `, you'll then see that the expression `h s` evaluates to evidence for `False`. If ever you have evidence for `False`, you should aways immediatly consider using `false_elim` to create evidence for anything — which in this case will be `B`.\\
+Once you've started with `λ(s : S) ↦ `, you'll then see that the expression `h s` evaluates to evidence for `False`. If ever you have evidence for `False`, you should always immediately consider using `false_elim` to create evidence for anything — which in this case will be `B`.\\
 \\
-There is no proof that \"keeps going\" once you've created evidence for `False`. Some proofs have multiple parts, so you may close off one line of reasoning and move on to another, but there can be no meaningfull logic in any context where evidence for `False` is present.
+There is no proof that \"keeps going\" once you've created evidence for `False`. Some proofs have multiple parts, so you may close off one line of reasoning and move on to another, but there can be no meaningful logic in any context where evidence for `False` is present.
 "
 
 /-- ¬S is enough to show S → B -/

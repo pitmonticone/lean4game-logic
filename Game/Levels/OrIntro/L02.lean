@@ -28,7 +28,7 @@ Statement (O S : Prop)(s : S) : K ∨ S := by
 Conclusion "
 Almost a repeat of level 1. That was fast.
 
-You'll notice that last time you showed evidence for a proposition involving “Oranges are a vegetable” even though you probably know that oranges are a fruit and not a vegitable. This time you did the same for “sprinkles are super colourful,” which you probably know is true.
+You'll notice that last time you showed evidence for a proposition involving “Oranges are a vegetable” even though you probably know that oranges are a fruit and not a vegetable. This time you did the same for “sprinkles are super colourful,” which you probably know is true.
 
 What this demonstrates is that `∨` is an inclusive “or”, which means at least one of the propositions is true. It could be both or just one.
 "

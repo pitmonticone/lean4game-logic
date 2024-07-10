@@ -31,5 +31,5 @@ example (C D S : Prop) (h : (S → C) ∧ (S → D)) : S → C ∧ D := by
   exact λs ↦ ⟨l s, r s⟩
 
 Conclusion "
-You definitely have the knack of providing conditional arguements
+You definitely have a knack for providing conditional arguments!
 "

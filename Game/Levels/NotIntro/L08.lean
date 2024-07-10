@@ -18,7 +18,7 @@ Your cake order definitely has sprinkles, which means it's **not** missing sprin
 - `S` — The cake is topped with sprinkles
 "
 
-/-- Negation into conjuction. -/
+/-- Negation into conjunction. -/
 Statement (C S : Prop) (s: S) : ¬(¬S ∧ C) := by
   exact λ(nsc : ¬S ∧ C) ↦ nsc.left s
 

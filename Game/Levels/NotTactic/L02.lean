@@ -12,7 +12,7 @@ OnlyTactic
   contradiction
 
 Introduction "
-# Contradiciton
+# Contradiction
 This level introduces a relatively powerful tactic. Contradiction is a finishing tactic that will look through your assumptions and discharge some of the more obvious contradictions in order to solve any goal.\\
 \\
 examples:

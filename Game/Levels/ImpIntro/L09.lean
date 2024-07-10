@@ -26,7 +26,7 @@ That's a bit convoluted, but you should be able to produce some evidence of this
 - `S` — Sybeth is bringing a snack
 "
 
-/-- Write the nessesary nested function(s)! -/
+/-- Write the necessary nested function(s)! -/
 Statement (R S : Prop) : R → (S → R) ∧ (¬S → R) := by
   exact λ(r : R) ↦ and_intro (λ(_ : S) ↦ r) (λ(_ : ¬S) ↦ r)
 
