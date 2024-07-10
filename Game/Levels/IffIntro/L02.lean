@@ -4,7 +4,7 @@ open GameLogic
 
 World "IffIntro"
 Level 2
-Title "Conjuctive Iff"
+Title "Conjunctive Iff"
 
 NewTheorem
   GameLogic.iff_mp

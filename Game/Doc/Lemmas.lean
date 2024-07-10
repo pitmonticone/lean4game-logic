@@ -8,7 +8,7 @@ def and_left {P Q : Prop} (h : P ∧ Q) : P := And.left h
 # ∧ Elimination Left
 ### `and_left : P ∧ Q -> P`
 
-If `h` is a term with a type like `AP∧ Q`
+If `h` is a term with a type like `P ∧ Q`
 
 `and_left h`, `h.left` or `h.1` are all expressions for denoting the left-hand side of the given evidence. In this case, the left side has a type of `P`.
 -/
@@ -104,7 +104,7 @@ def or_elim
 
 /--
 # Or Elimination
-If you can conclude something from `A` and you can conclude the same thing from `B`, then if you know `A ∨ B` it won't matter which of the two happens as you can still guarentee something.
+If you can conclude something from `A` and you can conclude the same thing from `B`, then if you know `A ∨ B` it won't matter which of the two happens as you can still guarantee something.
 
 or_elim is also evidence:
 ```
@@ -116,7 +116,7 @@ or_elim : (P ∨ Q) → (P → R) → (Q → R) → R`
 2. evidence an implication on the left,
 3. evidence for an implication on the right.
 # Example
-`or_elim` is your first 3-paramater function.
+`or_elim` is your first 3-parameter function.
 ```
 pvq: P ∨ Q
 pr : P → R
@@ -202,7 +202,7 @@ There is are infix operators for function application; they look like `|>` and `
 
 It's twin, `|>` chains such that `x |> f |> g` is interpreted as `g (f x)`.
 
-What makes the infix operators usefull is that they can often replace a pair of brackets `(...)` making expressions easier to read.
+What makes the infix operators useful is that they can often replace a pair of brackets `(...)` making expressions easier to read.
 
 ----
 # Computer Science

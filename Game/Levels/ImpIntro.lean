@@ -22,7 +22,7 @@ This game uses the implication arrow “ → ”. “If A, then B” is the same
 \\
 So far, we've been giving our evidence and propositions real-world analogues. Doing this is a bit less desirable with conditionals as real-world evidence is often based on our understanding and not some tangible object. For example; the evidence that “If it rained, then the driveway is wet” generally doesn't come in the form of peer-reviewed physics papers. You should be thinking of the flavour text for each level as an unrefined embellishment of the symbols you're actually concerned with.\\
 \\
-That said, at the level the favour text works on, what would constitute evidence for a conditional statement? Well, for example; “If we have gnocchi, butter, parmesan, and black pepper, then we can cook *gnocchi cacio e pepe*”. An example of evidence for such a conditional could be a recipe with cooking instructions. You can think of the recipe as an argument explaining that the given ingredients are sufficient to be able to cook the dish.\\
+That said, at the level the flavour text works on, what would constitute evidence for a conditional statement? Well, for example; “If we have gnocchi, butter, parmesan, and black pepper, then we can cook *gnocchi cacio e pepe*”. An example of evidence for such a conditional could be a recipe with cooking instructions. You can think of the recipe as an argument explaining that the given ingredients are sufficient to be able to cook the dish.\\
 \\
 Another example might be a safe's combination, as evidence that “I can find the hidden safe” → “I can steal the contents of the safe”. Perhaps a certification is evidence that “I won the contract” → “I will renovate the client's yard”.\\
 \\

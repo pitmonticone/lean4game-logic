@@ -16,7 +16,7 @@ Introduction "
 If the cake arrives, then everybody will rejoice. Either the cake arrives or you get a refund. Therefore, either everybody will rejoice or you get a refund! That's a win-win situation.
 # Proposition Key:
 - C — The cake arrives
-- J — Everybody is joyfull
+- J — Everybody is joyful
 - R — You get a refund
 "
 

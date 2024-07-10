@@ -12,9 +12,9 @@ OnlyTactic
 
 Introduction "
 # Allergy #1
-Owing to his allergy, if Pippin is present, there must be no avocado at the party. Which means that we cannot have both Pippin and avacado at the party
+Owing to his allergy, if Pippin is present, there must be no avocado at the party. Which means that we cannot have both Pippin and avocado at the party
 # Proposition Key:
-- `A` — There's avacado at the party
+- `A` — There's avocado at the party
 - `P` — Pippin is attending the party
 "
 

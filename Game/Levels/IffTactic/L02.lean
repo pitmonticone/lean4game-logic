@@ -4,7 +4,7 @@ open GameLogic
 
 World "IffTactic"
 Level 2
-Title "Conjuctive Iff"
+Title "Conjunctive Iff"
 
 OnlyTactic
   assumption

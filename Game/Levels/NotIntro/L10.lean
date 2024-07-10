@@ -4,7 +4,7 @@ open GameLogic
 
 World "NotIntro"
 Level 10
-Title "Conjunction Implicaiton"
+Title "Conjunction Implication"
 
 OnlyTactic
   exact
@@ -12,9 +12,9 @@ OnlyTactic
 
 Introduction "
 # Allergy #2
-We cannot have both Pippin and avacado at the party. Which means that if Pippin is attending, then there will not be any avacado.
+We cannot have both Pippin and avocado at the party. Which means that if Pippin is attending, then there will not be any avocado.
 # Proposition Key:
-- `A` — There's avacado at the party
+- `A` — There's avocado at the party
 - `P` — Pippin is attending the party
 "
 
